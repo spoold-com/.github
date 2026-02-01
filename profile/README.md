@@ -64,15 +64,4 @@ Spoold is built for developers who want reliable browser-based utilities without
 
 Most tools run entirely **client-side**, ensuring speed and total privacy.
 
-👉 **[Open Spoold →](https://spoold.com/tools)**
-
----
-
-If you want, I can also produce:
-
-✅ A more compact version  
-✅ A more visual version with emojis  
-✅ A version with categories instead of a table  
-✅ A banner image for the org homepage  
-
-Just tell me!
+👉 **[Open Spoold →](https://spoold.com/)**
